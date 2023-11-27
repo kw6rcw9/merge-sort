@@ -1,0 +1,15 @@
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.exe
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.deps.json
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.runtimeconfig.json
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.dll
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\bin\Debug\net7.0\ConsoleApp15.pdb
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.csproj.AssemblyReference.cache
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.AssemblyInfoInputs.cache
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.AssemblyInfo.cs
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.csproj.CoreCompileInputs.cache
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.dll
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\refint\ConsoleApp15.dll
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.pdb
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ConsoleApp15.genruntimeconfig.cache
+F:\Desktop\C#\ConsoleApp15\ConsoleApp15\obj\Debug\net7.0\ref\ConsoleApp15.dll
